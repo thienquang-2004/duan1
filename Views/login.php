@@ -1,7 +1,7 @@
 <section class="middle">
   <div class="container">
     <div class="row align-items-start justify-content-between">
-
+//11223344 
       <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
         <?php if (!empty($error)): ?>
             <div class="alert alert-danger" role="alert">
